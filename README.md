@@ -1,4 +1,5 @@
-#**Journal App**
+# **Journal App**
+
 The Journal App is an app that allows you to add to-dos or activities to your calendar and designate a specific time of day to each job. This maintains a list of tasks and also includes a button that brings you to a new fragment where you can add new tasks, as well as a button that takes you to the same fragment where you can change and delete previously entered tasks.
 
 - Activity lifecycle
